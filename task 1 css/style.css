@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,
+body
+.contrainer{
+    width: 100%;
+    height: 100%; 
+    background-image: url(https://tse1.mm.bing.net/th?id=OIP.0hjOGgQzZAZx4vvbaX-OJAHaEo&pid=Api&P=0 );
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+
+}
+h1{
+    color: white;
+    font-size: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+img{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 70%;
+    left:50% ;
+    transform: translate(-50%,-50%);
+}
+.contrainer2{
+    color: white;
+    font-size: 35px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    z-index: 10px;
+    bottom: 0;
+    top: 80%;
+}
+button{
+    font-size: 40px;
+    margin: 10px;
+    border-radius: 10px 20px;
+    padding: 3px 1px;
+    box-shadow: 10px 10px;
+    background: transparent;
+    color: azure;
+    position: absolute;
+    bottom: 5%;
+    left: 40%;
+
+
+}
+.contrainer3{
+    font-size: 60px;
+    color: wheat;
+
+}
+
+.navbar{
+    color: white;
+    font-size: 20px;
+    float: right;
+}
+.navbar ul a{
+    color: white;
+ text-decoration: none;
+
+}
+.navbar li{
+    display: inline-block;
+    padding: 3px 30px;
+    margin: 4px 10px;
+}
+.container2>p{position: absolute;
+    bottom: 2%;
+    color: white;
+    left:37% ;
+    font-size: 20px;
+    font-family: sans-serif;
+}
